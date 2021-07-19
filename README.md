@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Golang** and **Python**.
 
-- 💻 I want to inmprove my penetration testing skills and I already have some skills with **HTML**, **CSS**, **C#**, **Java**, **React**, **Angular**, **SQL**, **PSQL**, **Terraform** some
+- 💻 I want to improve my penetration testing skills and I already have some skills with **HTML**, **CSS**, **C#**, **Java**, **React**, **Angular**, **SQL**, **PSQL**, **Terraform** some
 understanding of **C**, **C++**, **javascript** * in the sense that I worked with it. 
 
 - ☁️ I also know how to use **AWS** and **Azure** not idea how **Google cloud** works but would like to take a gander in the 
